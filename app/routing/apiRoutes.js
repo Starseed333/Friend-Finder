@@ -9,7 +9,7 @@ module.exports = function(app) {
   app.get('/api/friends', function (req, res) {
     res.json(friendMatch);
   });
-  // A POST route to handle incoming survery results
+  // A POST route to handle incoming survey results
   app.post('/api/friends', function (req, res) {
 
     //req.body is available since we're using body-parser middleware
