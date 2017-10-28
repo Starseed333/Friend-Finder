@@ -8,12 +8,12 @@ An application that implements friend matching based on the user's responses to 
 The application also has a link which allows the user to see their potential matches as well as their own answers to the questionnaire once submitted.
 
 
-### Friend-Finder demo
+### Friend-Finder Demo
 
-* ##### [Visit the application here.] (https://infinite-savannah-23566.herokuapp.com)
+* ##### Visit the application here. [https://infinite-savannah-23566.herokuapp.com]
 
 
-### NPM Packages Used
+#### NPM Packages Used
 
 * Express
 * Body-Parser
